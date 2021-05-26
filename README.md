@@ -4,7 +4,7 @@ Built and written by Typesript and supported by
 2. Draft js plugins [https://www.draft-js-plugins.com/](https://www.draft-js-plugins.com/)
 3. Styled components [https://styled-components.com/](https://styled-components.com/)
 
-![Alt text](https://github.com/agilworld/react-editor-draft-js/master/preview.png "preview")
+![Alt text](https://github.com/agilworld/react-editor-draft-js/blob/master/preview.png?raw=true "preview")
 
 ## How to contribute
 Please fork or Pull Request
