@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "outDir": "lib",
+      "noImplicitAny": true,
+      "module": "commonjs",
+      "target": "ES2015",
+      "jsx": "react",
+      "allowJs": true,
+      "lib": ["es2019", "es2020.promise", "es2020.bigint", "es2020.string", "DOM", "ESNext"],
+      "esModuleInterop": true,
+      "moduleResolution": "node",
+      "plugins": [
+        {
+          "name": "typescript-styled-plugin",
+          "validate": false
+        }
+      ],
+      "types": [
+        "mocha"
+      ]
+    },
+    "include": ["src"]
+}

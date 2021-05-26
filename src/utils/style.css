@@ -1,0 +1,14 @@
+.editor-wrapper {
+    box-sizing: 'border-box';
+    border: '1px solid #ddd';
+    cursor: 'text';
+    padding: '14px';
+    position: "relative";
+    border-radius: '2px';
+    font-size: '18px';
+    overflow:'auto';
+    margin-bottom: '2em';
+    box-shadow: 'inset 0px 1px 8px -3px #ABABAB';
+    background: '#fefefe';
+    min-height: 300;
+}
